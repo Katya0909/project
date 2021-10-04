@@ -1,3 +1,2 @@
 # project
-first progect
-test test
+first project
